@@ -1,6 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B3AF7&width=435&lines=Hi%2C+I'm+Amir%2C+a+Software+Engineer++)](https://git.io/typing-svg)
+## ✨ GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=500&color=1ABC9C&width=435&lines=Hi%2C+I'm+Amir%2C+a+Software+Engineer++;Welcome+to+my+world+of+code!)](https://git.io/typing-svg)
 
-![git-hub](https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif)
+
+<div align="center">
+  <img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" alt="Coding Joy" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
+
 
  ### Languages and Tools:
 
