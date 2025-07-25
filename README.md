@@ -1,30 +1,67 @@
-## ✨ GitHub!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=500&color=1ABC9C&width=435&lines=Hi%2C+I'm+Amir%2C+a+Software+Engineer++;Welcome+to+my+world+of+code!)](https://git.io/typing-svg)
+<!-- README.md -->
 
+<h1 align="center">Hi 👋, I'm Amir</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=500&color=1ABC9C&width=435&lines=Software+Engineer+%7C+Tech+Explorer+%7C+Code+Craftsman" alt="Typing SVG">
+</p>
 
 <div align="center">
-  <img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" alt="Coding Joy" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" alt="Coding Joy" width="400">
 </div>
 
-Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
+<p align="center">
+  🚀 Welcome to my GitHub! <br />
+  I'm passionate about building scalable systems, architecting microservices, and writing clean, maintainable code. <br />
+  Let's connect and create something awesome together!
+</p>
 
+---
 
- ### Languages and Tools:
+## 🔧 Tech Stack & Tools
 
-![Go Version](https://img.shields.io/badge/go-%201.21-blue?style=for-the-badge&scale=1.2)
-![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=green)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MongoDB Version](https://img.shields.io/badge/MongoDB-%205.0-green?style=for-the-badge&scale=1.3)
-![Python](https://img.shields.io/badge/Python-%23777BB4.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Kubernetes Version](https://img.shields.io/badge/Kubernetes-%20v1.25-navy?style=for-the-badge&scale=1.3)
-![gcp](https://img.shields.io/badge/gcp-%2300f.svg?style=for-the-badge&logo=gcp&logoColor=green)
-![PostgreSQL Version](https://img.shields.io/badge/PostgreSQL-%2015.3-teal?style=for-the-badge&scale=1.2)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-1.21-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-5.0-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-15.3-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-v1.25-navy?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/amirnabaei)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirna&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirna&theme=github-dark&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirna&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🧭 Quick Navigation
+- 🔬 [My Projects](#-projects)
+- 🧰 [Tech Stack](#-tech-stack--tools)
+- 📈 [GitHub Stats](#-github-stats)
+- 🔗 [Social Links](#-connect-with-me)
+
+---
+
+## 🚀 Projects
+
+> _Featured repos go here with short summaries_
+
+```markdown
+📦 [project-name](https://github.com/amirna/project-name) — Brief one-liner about what it does  
+⚙️ [infra-toolkit](https://github.com/amirna/infra-toolkit) — Terraform modules and monitoring system  
+📊 [healthcare-estimator](https://github.com/amirna/healthcare-estimator) — Live insurance cost + coverage app  
